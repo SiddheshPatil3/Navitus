@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "fullname": "Siddhesh Patil",
+      "mobile": 7709158627,
+      "email": "siddheshmpatil3@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "fullname": "Siddhesh Patil",
+      "mobile": 7709158627,
+      "email": "siddheshmpatil3@gdkkerlhmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "fullname": "ani",
+      "mobile": 12345,
+      "email": "ani@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "fullname": "sid",
+      "mobile": 777777777,
+      "email": "sid@gmail",
+      "password": "1qa",
+      "id": 5
+    },
+    {
+      "fullname": "demo",
+      "mobile": 7709158627,
+      "email": "demo@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "fullname": "test",
+      "mobile": 9876543210,
+      "email": "test@gmail.com",
+      "password": "test",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
